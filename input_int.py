@@ -1,0 +1,8 @@
+# birth_year = input('birth date')
+# print(type(birth_year))
+# age = 2019-int(birth_year)
+# print(type(age))
+# print(age)
+weight = input('what is weight pound')
+convert = 23*int(weight)
+print(convert)
